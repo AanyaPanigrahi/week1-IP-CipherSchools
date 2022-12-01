@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset UTF="8">
+<title>debugging in html<br><br><br></title>
+<body> 
+    <h1>Heading 1 </h1>
+    <p>
+        to see what are the elements just click on inspect .
+    </p>
+</body>    
+</head>
+</html>
